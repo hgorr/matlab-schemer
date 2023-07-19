@@ -1,0 +1,33 @@
+# hgorrColorSchemeForMATLAB - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.14.0.2254940 (R2023a) Update 2
+# Tue Jul 18 18:09:48 EDT 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1
+ColorsBackground=C-8507506
+Colors_M_Keywords=C-6710785
+Colors_M_Comments=C-26113
+Colors_M_Strings=C-4259649
+Colors_M_UnterminatedStrings=C-7330270
+Colors_M_SystemCommands=C-7641594
+Colors_M_Errors=C-4771540
+Colors_HTML_HTMLLinks=C-15313241
+Colors_M_Warnings=C-1199840
+ColorsMLintAutoFixBackground=C-26164
+Editor.VariableHighlighting.Color=C-26113
+Editor.NonlocalVariableHighlighting.TextColor=C-16711681
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-1705251
+EditorRightTextLimitLineColor=C-26168
+Color_CmdWinWarnings=C-39936
+Color_CmdWinErrors=C-2024684
