@@ -1,0 +1,33 @@
+# barbie - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 23.2.0.2289345 (R2023b) Prerelease Update 1
+# Tue Jul 18 23:02:06 EDT 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-39998
+ColorsBackground=C-13421773
+Colors_M_Keywords=C-16653
+Colors_M_Comments=C-11927559
+Colors_M_Strings=C-52242
+Colors_M_UnterminatedStrings=C-12675370
+Colors_M_SystemCommands=C-65605
+Colors_M_Errors=C-33809
+Colors_HTML_HTMLLinks=C-1
+Colors_M_Warnings=C-1199840
+ColorsMLintAutoFixBackground=C-2628
+Editor.VariableHighlighting.Color=C-3081740
+Editor.NonlocalVariableHighlighting.TextColor=C-16615296
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-1705251
+EditorRightTextLimitLineColor=C-4210753
+Color_CmdWinWarnings=C-8283417
+Color_CmdWinErrors=C-13125

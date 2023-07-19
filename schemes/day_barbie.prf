@@ -1,0 +1,33 @@
+# hgorrBarbiePink - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.14.0.2254940 (R2023a) Update 2
+# Wed Jul 19 16:23:55 EDT 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1
+ColorsBackground=C-26113
+Colors_M_Keywords=C-6750004
+Colors_M_Comments=C-65281
+Colors_M_Strings=C-65281
+Colors_M_UnterminatedStrings=C-3932160
+Colors_M_SystemCommands=C-5075968
+Colors_M_Errors=C-65536
+Colors_HTML_HTMLLinks=C-16776961
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-1121868
+Editor.VariableHighlighting.Color=C-3479320
+Editor.NonlocalVariableHighlighting.TextColor=C-16735325
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-1705251
+EditorRightTextLimitLineColor=C-26168
+Color_CmdWinWarnings=C-39936
+Color_CmdWinErrors=C-1703936
