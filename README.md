@@ -1,5 +1,6 @@
 [![MATLAB FileExchange](https://img.shields.io/badge/MATLAB-FileExchange-orange.svg)][fex]
 
+This fork includes three new Barbie themes!
 
 MATLAB Schemer
 ==============
