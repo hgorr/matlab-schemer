@@ -2,9 +2,8 @@
 
 This fork includes three new Barbie themes
 
-![schemes/screenshots/day_barbie.png](schemes/screenshots/day_barbie.png)
-![schemes/screenshots/night_barbie.png](schemes/screenshots/night_barbie.png)
-![schemes/screenshots/classic_pink_barbie.png](schemes/screenshots/classic_pink_barbie.png)
+![schemes/screenshots/day_barbie.png](schemes/screenshots/day_barbie.png | =250x250)
+
 
 MATLAB Schemer
 ==============
