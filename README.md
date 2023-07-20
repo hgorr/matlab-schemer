@@ -1,8 +1,17 @@
 [![MATLAB FileExchange](https://img.shields.io/badge/MATLAB-FileExchange-orange.svg)][fex]
 
-This fork includes three new Barbie themes
+**Barbie Themes**
 
-![schemes/screenshots/day_barbie.png](schemes/screenshots/day_barbie.png | =250x250)
+This fork includes three new Barbie themes:
+
+<figcaption>Day Barbie</figcaption>
+<img src=schemes/screenshots/day_barbie.png width="300" height="300">
+
+<figcaption>Night Barbie</figcaption>
+<img src=schemes/screenshots/night_barbie.png width="300" height="300">
+
+<figcaption>Classic Pink Barbie</figcaption>
+<img src=schemes/screenshots/classic_pink_barbie.png width="300" height="300">
 
 
 MATLAB Schemer
